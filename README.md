@@ -261,27 +261,24 @@ Enterprise-Financial-Performance-Analysis/
 │
 ├── Dataset/
 │
-├── SQL/
-│   ├── Data Cleaning
-│   ├── Business Queries
-│   └── KPI Analysis
-│
-├── Python/
-│   ├── Data Cleaning
-│   ├── EDA
-│   ├── Visualization
-│   └── Business Insights
-│
-├── PowerBI/
-│   ├── Dashboard.pbix
-│   └── Dashboard Images
-│
 ├── Reports/
-│   ├── Executive Summary
-│   ├── Business Insights
-│   └── Recommendations
+│   ├── Business_problem_TechNova.docx
+│   ├── TechNova's Key Insights & Recommendations.pdf
+│   └── TechNova's Key Insights & Recommendations.rtf
 │
-├── Images/
+├── dashboard/
+│   ├── Financial Analysis Dashboard.pbix
+│   
+├── data/
+│   ├── raw
+│   └── Processed
+│
+├── notebooks/
+│   ├── 01_DataCleaning.ipynb
+│   ├── 02_Load_To_PostgreSQL.ipynb
+│   └── 03_Financial_Performance_Analysis.ipynb
+│
+├── License
 │
 └── README.md
 ```
