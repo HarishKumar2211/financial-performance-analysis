@@ -1,0 +1,301 @@
+product_id,product_name,category,brand
+P0001,Business Switch 24 1,Networking,Dell
+P0002,UltraView 24 1,Monitor,Cisco
+P0003,Crystal Display 1,Monitor,HP
+P0004,SSD 512GB 1,Storage,Cisco
+P0005,Security Shield 1,Software,Lenovo
+P0006,SSD 512GB 2,Storage,Microsoft
+P0007,SSD 1TB 1,Storage,Cisco
+P0008,Business Switch 24 2,Networking,HP
+P0009,IdeaPad Slim 1,Laptop,HP
+P0010,OfficeView 22 1,Monitor,Microsoft
+P0011,Access Point Pro 1,Networking,Dell
+P0012,OfficeView 22 2,Monitor,Microsoft
+P0013,USB Drive 128GB 1,Storage,HP
+P0014,Cloud Backup 1,Software,Lenovo
+P0015,ERP Standard 1,Software,Microsoft
+P0016,OfficeView 22 3,Monitor,Cisco
+P0017,USB Drive 128GB 2,Storage,Lenovo
+P0018,Network Hub 1,Networking,HP
+P0019,SSD 512GB 3,Storage,HP
+P0020,ZenBook Air 1,Laptop,Microsoft
+P0021,ThinkBook Pro 14 1,Laptop,Lenovo
+P0022,External HDD 2TB 1,Storage,Dell
+P0023,Portable SSD 1,Storage,HP
+P0024,ProColor 27 1,Monitor,Lenovo
+P0025,SSD 1TB 2,Storage,Dell
+P0026,VisionPro 27 1,Monitor,HP
+P0027,ERP Standard 2,Software,Microsoft
+P0028,ThinkBook Pro 14 2,Laptop,Lenovo
+P0029,Network Hub 2,Networking,Dell
+P0030,USB Drive 128GB 3,Storage,HP
+P0031,OfficeView 22 4,Monitor,Cisco
+P0032,Cloud Backup 2,Software,Cisco
+P0033,WiFi Router AX6000 1,Networking,HP
+P0034,Network Hub 3,Networking,Dell
+P0035,IdeaPad Slim 2,Laptop,HP
+P0036,External HDD 2TB 2,Storage,Microsoft
+P0037,USB Drive 128GB 4,Storage,Lenovo
+P0038,CRM Essentials 1,Software,Dell
+P0039,SSD 512GB 4,Storage,Cisco
+P0040,Surface Laptop Go 1,Laptop,Microsoft
+P0041,Surface Laptop Go 2,Laptop,Lenovo
+P0042,TravelMate Pro 1,Laptop,Cisco
+P0043,Analytics Pro 1,Software,Dell
+P0044,Enterprise Firewall 1,Networking,Dell
+P0045,USB Drive 128GB 5,Storage,Lenovo
+P0046,Latitude 15 1,Laptop,Dell
+P0047,Security Shield 2,Software,Microsoft
+P0048,USB Drive 128GB 6,Storage,Microsoft
+P0049,CRM Essentials 2,Software,Microsoft
+P0050,Analytics Pro 2,Software,Lenovo
+P0051,SSD 512GB 5,Storage,Dell
+P0052,UltraView 24 2,Monitor,Lenovo
+P0053,Analytics Pro 3,Software,Microsoft
+P0054,Business Switch 24 3,Networking,HP
+P0055,Surface Laptop Go 3,Laptop,Cisco
+P0056,Network Hub 4,Networking,Cisco
+P0057,SSD 1TB 3,Storage,Dell
+P0058,TravelMate Pro 2,Laptop,Microsoft
+P0059,UltraView 24 3,Monitor,Cisco
+P0060,Cloud Backup 3,Software,HP
+P0061,TravelMate Pro 3,Laptop,Cisco
+P0062,Enterprise Firewall 2,Networking,HP
+P0063,OfficeView 22 5,Monitor,Microsoft
+P0064,Security Shield 3,Software,Dell
+P0065,Analytics Pro 4,Software,HP
+P0066,Enterprise Firewall 3,Networking,Microsoft
+P0067,WiFi Router AX6000 2,Networking,Dell
+P0068,Security Shield 4,Software,Cisco
+P0069,Analytics Pro 5,Software,Microsoft
+P0070,Network Hub 5,Networking,Cisco
+P0071,WiFi Router AX6000 3,Networking,Dell
+P0072,ZenBook Air 2,Laptop,Microsoft
+P0073,Crystal Display 2,Monitor,Cisco
+P0074,UltraView 24 4,Monitor,Lenovo
+P0075,Enterprise Firewall 4,Networking,Dell
+P0076,CRM Essentials 3,Software,Lenovo
+P0077,VisionPro 27 2,Monitor,Microsoft
+P0078,Crystal Display 3,Monitor,Dell
+P0079,NVMe Pro 2TB 1,Storage,Microsoft
+P0080,Business Switch 24 4,Networking,Microsoft
+P0081,EliteBook X 1,Laptop,Microsoft
+P0082,Security Shield 5,Software,Dell
+P0083,Enterprise Firewall 5,Networking,Microsoft
+P0084,Mesh Router 1,Networking,HP
+P0085,OfficeView 22 6,Monitor,Microsoft
+P0086,Portable SSD 2,Storage,Lenovo
+P0087,OfficeView 22 7,Monitor,Dell
+P0088,ThinkBook Pro 14 3,Laptop,HP
+P0089,UltraView 24 5,Monitor,Microsoft
+P0090,Business Switch 24 5,Networking,Lenovo
+P0091,VisionPro 27 3,Monitor,HP
+P0092,WiFi Router AX6000 4,Networking,HP
+P0093,Crystal Display 4,Monitor,Cisco
+P0094,CRM Essentials 4,Software,Dell
+P0095,SSD 512GB 6,Storage,Cisco
+P0096,OfficeView 22 8,Monitor,Dell
+P0097,WiFi Router AX6000 5,Networking,Lenovo
+P0098,SSD 512GB 7,Storage,Microsoft
+P0099,CRM Essentials 5,Software,Microsoft
+P0100,Analytics Pro 6,Software,HP
+P0101,CurvedView 32 1,Monitor,Lenovo
+P0102,USB Drive 128GB 7,Storage,Dell
+P0103,ERP Standard 3,Software,Cisco
+P0104,CurvedView 32 2,Monitor,Lenovo
+P0105,UltraView 24 6,Monitor,Cisco
+P0106,Cloud Backup 4,Software,Dell
+P0107,CurvedView 32 3,Monitor,Cisco
+P0108,Portable SSD 3,Storage,Dell
+P0109,Analytics Pro 7,Software,Cisco
+P0110,External HDD 2TB 3,Storage,HP
+P0111,ProColor 27 2,Monitor,Dell
+P0112,ZenBook Air 3,Laptop,Lenovo
+P0113,ERP Standard 4,Software,Lenovo
+P0114,External HDD 2TB 4,Storage,Lenovo
+P0115,USB Drive 128GB 8,Storage,Cisco
+P0116,Office Suite 1,Software,Cisco
+P0117,Business Switch 24 6,Networking,HP
+P0118,TravelMate Pro 4,Laptop,Lenovo
+P0119,ERP Standard 5,Software,HP
+P0120,VisionPro 27 4,Monitor,Lenovo
+P0121,ProColor 27 3,Monitor,Cisco
+P0122,UltraView 24 7,Monitor,Cisco
+P0123,External HDD 2TB 5,Storage,HP
+P0124,USB Drive 128GB 9,Storage,Lenovo
+P0125,ZenBook Air 4,Laptop,Cisco
+P0126,SSD 1TB 4,Storage,HP
+P0127,Latitude 15 2,Laptop,Cisco
+P0128,WiFi Router AX6000 6,Networking,Cisco
+P0129,CRM Essentials 6,Software,Microsoft
+P0130,Analytics Pro 8,Software,Microsoft
+P0131,Office Suite 2,Software,Lenovo
+P0132,Mesh Router 2,Networking,Cisco
+P0133,CRM Essentials 7,Software,Cisco
+P0134,Cloud Backup 5,Software,Dell
+P0135,Office Suite 3,Software,Dell
+P0136,Surface Laptop Go 4,Laptop,HP
+P0137,ThinkBook Pro 14 4,Laptop,Cisco
+P0138,IdeaPad Slim 3,Laptop,Dell
+P0139,Enterprise Firewall 6,Networking,Microsoft
+P0140,CRM Essentials 8,Software,Cisco
+P0141,Security Shield 6,Software,HP
+P0142,Surface Laptop Go 5,Laptop,Lenovo
+P0143,Office Suite 4,Software,Microsoft
+P0144,CurvedView 32 4,Monitor,Dell
+P0145,Aspire Max 1,Laptop,Lenovo
+P0146,NVMe Pro 2TB 2,Storage,Dell
+P0147,SSD 1TB 5,Storage,Cisco
+P0148,Cloud Backup 6,Software,HP
+P0149,USB Drive 128GB 10,Storage,Dell
+P0150,Office Suite 5,Software,Dell
+P0151,Portable SSD 4,Storage,Lenovo
+P0152,Business Switch 24 7,Networking,Microsoft
+P0153,ERP Standard 6,Software,Dell
+P0154,Surface Laptop Go 6,Laptop,Lenovo
+P0155,Network Hub 6,Networking,Lenovo
+P0156,EliteBook X 2,Laptop,Microsoft
+P0157,Network Hub 7,Networking,Microsoft
+P0158,Portable SSD 5,Storage,Dell
+P0159,Access Point Pro 2,Networking,Dell
+P0160,Access Point Pro 3,Networking,Lenovo
+P0161,CRM Essentials 9,Software,Lenovo
+P0162,OfficeView 22 9,Monitor,Cisco
+P0163,Office Suite 6,Software,Microsoft
+P0164,WiFi Router AX6000 7,Networking,HP
+P0165,Latitude 15 3,Laptop,Cisco
+P0166,UltraView 24 8,Monitor,Dell
+P0167,Office Suite 7,Software,Lenovo
+P0168,Cloud Backup 7,Software,Lenovo
+P0169,Cloud Backup 8,Software,Lenovo
+P0170,NVMe Pro 2TB 3,Storage,Dell
+P0171,VisionPro 27 5,Monitor,Cisco
+P0172,ProColor 27 4,Monitor,Cisco
+P0173,Network Hub 8,Networking,HP
+P0174,IdeaPad Slim 4,Laptop,Dell
+P0175,WiFi Router AX6000 8,Networking,Dell
+P0176,ERP Standard 7,Software,HP
+P0177,CRM Essentials 10,Software,Dell
+P0178,Access Point Pro 4,Networking,Lenovo
+P0179,IdeaPad Slim 5,Laptop,Cisco
+P0180,Mesh Router 3,Networking,Lenovo
+P0181,SSD 512GB 8,Storage,Dell
+P0182,Access Point Pro 5,Networking,Microsoft
+P0183,USB Drive 128GB 11,Storage,Cisco
+P0184,VisionPro 27 6,Monitor,Cisco
+P0185,Security Shield 7,Software,HP
+P0186,SSD 512GB 9,Storage,Dell
+P0187,Network Hub 9,Networking,Dell
+P0188,OfficeView 22 10,Monitor,Dell
+P0189,ERP Standard 8,Software,HP
+P0190,ZenBook Air 5,Laptop,Lenovo
+P0191,Office Suite 8,Software,Microsoft
+P0192,SSD 512GB 10,Storage,Microsoft
+P0193,Business Switch 24 8,Networking,Lenovo
+P0194,Mesh Router 4,Networking,Lenovo
+P0195,SSD 1TB 6,Storage,HP
+P0196,OfficeView 22 11,Monitor,HP
+P0197,ThinkBook Pro 14 5,Laptop,Cisco
+P0198,Access Point Pro 6,Networking,Dell
+P0199,NVMe Pro 2TB 4,Storage,Dell
+P0200,Latitude 15 4,Laptop,Cisco
+P0201,Cloud Backup 9,Software,Lenovo
+P0202,Aspire Max 2,Laptop,Cisco
+P0203,EliteBook X 3,Laptop,HP
+P0204,ThinkBook Pro 14 6,Laptop,Cisco
+P0205,Network Hub 10,Networking,Cisco
+P0206,UltraView 24 9,Monitor,Dell
+P0207,VisionPro 27 7,Monitor,Cisco
+P0208,External HDD 2TB 6,Storage,HP
+P0209,Surface Laptop Go 7,Laptop,Cisco
+P0210,Crystal Display 5,Monitor,Lenovo
+P0211,External HDD 2TB 7,Storage,Dell
+P0212,ProColor 27 5,Monitor,Dell
+P0213,USB Drive 128GB 12,Storage,Lenovo
+P0214,NVMe Pro 2TB 5,Storage,Lenovo
+P0215,Portable SSD 6,Storage,Microsoft
+P0216,CRM Essentials 11,Software,HP
+P0217,Cloud Backup 10,Software,Microsoft
+P0218,IdeaPad Slim 6,Laptop,Lenovo
+P0219,External HDD 2TB 8,Storage,Cisco
+P0220,CRM Essentials 12,Software,Lenovo
+P0221,Mesh Router 5,Networking,HP
+P0222,SSD 512GB 11,Storage,HP
+P0223,ProColor 27 6,Monitor,Cisco
+P0224,ZenBook Air 6,Laptop,Dell
+P0225,Mesh Router 6,Networking,HP
+P0226,Cloud Backup 11,Software,Dell
+P0227,CurvedView 32 5,Monitor,Lenovo
+P0228,Latitude 15 5,Laptop,HP
+P0229,Crystal Display 6,Monitor,Microsoft
+P0230,ERP Standard 9,Software,Lenovo
+P0231,Cloud Backup 12,Software,Dell
+P0232,WiFi Router AX6000 9,Networking,HP
+P0233,ZenBook Air 7,Laptop,Lenovo
+P0234,Security Shield 8,Software,Lenovo
+P0235,ThinkBook Pro 14 7,Laptop,Cisco
+P0236,External HDD 2TB 9,Storage,Cisco
+P0237,WiFi Router AX6000 10,Networking,HP
+P0238,Mesh Router 7,Networking,Lenovo
+P0239,CRM Essentials 13,Software,Lenovo
+P0240,Crystal Display 7,Monitor,Microsoft
+P0241,Security Shield 9,Software,HP
+P0242,Security Shield 10,Software,HP
+P0243,USB Drive 128GB 13,Storage,Lenovo
+P0244,Latitude 15 6,Laptop,HP
+P0245,Surface Laptop Go 8,Laptop,Dell
+P0246,CurvedView 32 6,Monitor,Dell
+P0247,Network Hub 11,Networking,Dell
+P0248,Portable SSD 7,Storage,Dell
+P0249,CRM Essentials 14,Software,Cisco
+P0250,TravelMate Pro 5,Laptop,HP
+P0251,ERP Standard 10,Software,Dell
+P0252,CRM Essentials 15,Software,Dell
+P0253,External HDD 2TB 10,Storage,Lenovo
+P0254,NVMe Pro 2TB 6,Storage,HP
+P0255,USB Drive 128GB 14,Storage,Microsoft
+P0256,Office Suite 9,Software,HP
+P0257,EliteBook X 4,Laptop,Lenovo
+P0258,Security Shield 11,Software,Dell
+P0259,Latitude 15 7,Laptop,Microsoft
+P0260,Security Shield 12,Software,Microsoft
+P0261,ThinkBook Pro 14 8,Laptop,HP
+P0262,UltraView 24 10,Monitor,Cisco
+P0263,External HDD 2TB 11,Storage,HP
+P0264,Security Shield 13,Software,Microsoft
+P0265,Business Switch 24 9,Networking,Dell
+P0266,VisionPro 27 8,Monitor,Cisco
+P0267,Office Suite 10,Software,Lenovo
+P0268,SSD 512GB 12,Storage,HP
+P0269,USB Drive 128GB 15,Storage,Microsoft
+P0270,SSD 1TB 7,Storage,Lenovo
+P0271,Latitude 15 8,Laptop,Microsoft
+P0272,Access Point Pro 7,Networking,Lenovo
+P0273,VisionPro 27 9,Monitor,Dell
+P0274,Enterprise Firewall 7,Networking,Microsoft
+P0275,Crystal Display 8,Monitor,Dell
+P0276,Portable SSD 8,Storage,Lenovo
+P0277,WiFi Router AX6000 11,Networking,Microsoft
+P0278,CRM Essentials 16,Software,HP
+P0279,Aspire Max 3,Laptop,Lenovo
+P0280,USB Drive 128GB 16,Storage,Microsoft
+P0281,UltraView 24 11,Monitor,Dell
+P0282,ZenBook Air 8,Laptop,HP
+P0283,Enterprise Firewall 8,Networking,HP
+P0284,UltraView 24 12,Monitor,Cisco
+P0285,SSD 512GB 13,Storage,Cisco
+P0286,VisionPro 27 10,Monitor,Dell
+P0287,TravelMate Pro 6,Laptop,Cisco
+P0288,OfficeView 22 12,Monitor,Lenovo
+P0289,Access Point Pro 8,Networking,HP
+P0290,VisionPro 27 11,Monitor,Cisco
+P0291,Business Switch 24 10,Networking,Cisco
+P0292,WiFi Router AX6000 12,Networking,Dell
+P0293,UltraView 24 13,Monitor,Dell
+P0294,Network Hub 12,Networking,Microsoft
+P0295,Security Shield 14,Software,Dell
+P0296,External HDD 2TB 12,Storage,Microsoft
+P0297,ThinkBook Pro 14 9,Laptop,Dell
+P0298,VisionPro 27 12,Monitor,Dell
+P0299,Enterprise Firewall 9,Networking,Microsoft
+P0300,Network Hub 13,Networking,HP
