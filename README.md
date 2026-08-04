@@ -1,10 +1,5 @@
 # 📊 Enterprise Financial Performance Analysis | TechNova Global Electronics
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
-![Python](https://img.shields.io/badge/Python-Analysis-3776AB?logo=python)
-![SQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
 ## 📌 Project Overview
 
 This project analyzes the financial performance of **TechNova Global Electronics Ltd.**, a fictional multinational electronics manufacturer operating across multiple regions, customer segments, industries, and product categories.
