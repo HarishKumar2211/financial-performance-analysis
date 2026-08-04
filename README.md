@@ -312,6 +312,6 @@ By focusing on customer acquisition, strategic retention, regional recovery, and
 
 **Harish Kumar**
 
-**Data Analyst | Business Analyst**
+**Data Analyst** 
 
 **Skills:** SQL • Python • Power BI • PostgreSQL • Excel • Data Visualization • Business Intelligence
