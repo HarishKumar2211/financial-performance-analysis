@@ -224,17 +224,15 @@ Use predictive analytics to identify future business risks before they impact pe
 
 ✔ Executive KPI Dashboard
 
-✔ Revenue Trend Analysis
+✔ Revenue Analysis
 
-✔ Profit Analysis
+✔ Order Analysis
 
 ✔ Regional Performance
 
 ✔ Country Analysis
 
 ✔ Customer Segment Analysis
-
-✔ Industry Performance
 
 ✔ Product Category Performance
 
@@ -245,6 +243,8 @@ Use predictive analytics to identify future business risks before they impact pe
 ✔ Customer Churn Dashboard
 
 ✔ Interactive Filters and Drill-through
+
+![Executive Summary Dashboard](images/executive-summary.png)
 
 ---
 
